@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const { createSVG } = require('./lib/shapes');
+const { createSVG } = require('./lib/shape');
 
 async function generateLogo() {
     const userInput = await inquirer.prompt([
