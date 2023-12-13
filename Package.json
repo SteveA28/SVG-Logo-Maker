@@ -1,0 +1,18 @@
+{
+    "name": "svg-generator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {
+      "inquirer": "^8.5.0"
+    },
+    "devDependencies": {
+      "jest": "^27.2.1"
+    },
+    "jest": {
+      "testEnvironment": "node"
+    }
+  }
+  
