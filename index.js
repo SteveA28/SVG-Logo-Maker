@@ -10,7 +10,7 @@ async function generateLogo() {
       },
       {
         name: 'textColor',
-        message: 'Enter text color (keyword or hexadecimal):',
+        message: 'Enter text color:',
       },
       {
         name: 'shape',
@@ -20,7 +20,7 @@ async function generateLogo() {
       },
       {
         name: 'shapeColor',
-        message: 'Enter shape color (keyword or hexadecimal):',
+        message: 'Enter shape color:',
       },
     ]);
   
