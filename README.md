@@ -2,7 +2,7 @@
 
 ## Description
 
-In this challenge, I make a logo generator with a shapes testing to test the render of the shapes. The code asks users 4 questions on how they want their logo to look and it generates the code needed for the logo to show up.
+In this challenge, I made a logo generator with a shapes testing to test the render of the shapes. The code asks users 4 questions on how they want their logo to look and it generates the code needed for the logo to show up.
 
 ## Installation
 
